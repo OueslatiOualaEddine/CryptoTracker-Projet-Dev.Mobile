@@ -19,3 +19,4 @@ CryptoTracker is a comprehensive mobile application designed to keep you informe
 
 ## Screenshots
 
+**[Changing Theme Screenshots](themeChangingScreenshots.html)**
