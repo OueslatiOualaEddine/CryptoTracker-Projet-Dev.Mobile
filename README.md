@@ -19,4 +19,24 @@ CryptoTracker is a comprehensive mobile application designed to keep you informe
 
 ## Screenshots
 
-**[Changing Theme Screenshots](themeChangingScreenshots.html)**
+## Screenshots
+
+You can view the app's screenshots in both light and dark themes below.
+
+### Light Theme
+
+| **Homepage Markets 1**                    | **Homepage Markets 2**                    | **Homepage Favorite**                    |
+|--------------------------------------------|-------|-------|
+| ![Homepage Markets 1](Screenshots/LightTheme/HomepageMarkets1.png) | ![Homepage Markets 2](Screenshots/LightTheme/HomepageMarkets2.png) | ![Homepage Favorite](Screenshots/LightTheme/HomepageFavorite.png) |
+| **Details 1 Day**                         | **Details 7 Day**                         | **Details 15 Day**                       |
+|--------------------------------------------|-------|-------|
+| ![Details 1 Day](Screenshots/LightTheme/Details1Day.png) | ![Details 7 Day](Screenshots/LightTheme/Details7Day.png) |  ![Details 15 Day](Screenshots/LightTheme/Details15Day.png) |
+
+### Dark Theme
+
+| **Homepage Markets 1**                    | **Homepage Markets 2**                    | **Homepage Favorite**                    |
+|--------------------------------------------|-------|-------|
+| ![Homepage Markets 1](Screenshots/DarkTheme/HomepageMarkets1.png) | ![Homepage Markets 2](Screenshots/DarkTheme/HomepageMarkets2.png) | ![Homepage Favorite](Screenshots/DarkTheme/HomepageFavorite.png) | 
+| **Details 1 Day**                         | **Details 7 Day**                         | **Details 15 Day**                       |
+|--------------------------------------------|-------|-------|
+| ![Details 1 Day](Screenshots/DarkTheme/Details1Day.png) | ![Details 7 Day](Screenshots/DarkTheme/Details7Day.png) | ![Details 15 Day](Screenshots/DarkTheme/Details15Day.png) |
